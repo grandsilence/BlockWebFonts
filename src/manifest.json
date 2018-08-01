@@ -2,7 +2,7 @@
 	"name": "Block WebFonts",
 	"short_name": "BlockWebFonts",
 	"version": "1.0",
-	"description": "Block all fonts WebFonts and replace it with Arial / Helvetica",
+	"description": "Block WebFonts and replace it with Arial/Tahoma/Helvetica and Terminus (TTF)/Lucida Console/Consolas.",
 	"manifest_version": 2,
 	"author": "Grand Silence",
 	"homepage_url": "https://github.com/grandsilence/BlockWebFonts",
