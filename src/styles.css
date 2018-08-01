@@ -1,0 +1,21 @@
+/* General font */
+:root :not([class*="icon-"]):not([class*="fa-"]):not([class*="cm-"]):not([class*="ti-"]):not([class*="ms-Icon--"]):not([class*="rouble"]):not([class="font-fontello"]):not([class="mdi"]):not([class*="mdi-"]),
+:root html, :root body, :root h1, :root h2, :root h3, :root h4, :root h5, :root h6, :root * {
+	font-family: Arial, Tahoma, Helvetica, sans-serif;
+}
+
+/* Trello fix */
+.selector__glyph-image {
+	font-family: fontello !important;
+}
+
+/* Monospace */
+:root var, :root pre, :root pre *,
+:root code, :root code *, 
+:root .sql-highlight span,
+:root [class*="highlight-source-"] *, :root .highlight *, :root .w3-code *,
+:root #code_frame2 *, :root #code_frame *,
+:root .line-gutter-backdrop + table {
+	font-family: "Terminus (TTF) for Windows", "Lucida Console", Consolas, Monaco, monospace !important;
+    font-size: 12px !important;
+}
