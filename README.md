@@ -8,6 +8,7 @@ monospace: **[Terminus (TTF) for Windows](https://files.ax86.net/terminus-ttf/)*
 **Don't forget to install monospace font "Terminus (TTF) for Windows"**
 
 Perfect for DirectWrite disabled systems. Keep save your eyes.
+Click to the images at the bottom to see difference.
 
 Before (without extension)
 ===

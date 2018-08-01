@@ -1,3 +1,18 @@
+@font-face {
+  font-family: 'Roboto';
+  src: local("Arial"), local("Tahoma"), local("Helvetica");
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  src: local("Arial"), local("Tahoma"), local("Helvetica");
+}
+
+@font-face {
+  font-family: 'Segoe UI';
+  src: local("Arial"), local("Tahoma"), local("Helvetica");
+}
+
 /* General font */
 :root :not([class*="icon-"]):not([class*="fa-"]):not([class*="cm-"]):not([class*="ti-"]):not([class*="ms-Icon--"]):not([class*="rouble"]):not([class="font-fontello"]):not([class="mdi"]):not([class*="mdi-"]):not([aria-hidden^="true"]),
 :root html, :root body, :root h1, :root h2, :root h3, :root h4, :root h5, :root h6, :root * {
