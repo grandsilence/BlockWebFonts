@@ -32,5 +32,11 @@
 :root #code_frame2 *, :root #code_frame *,
 :root .line-gutter-backdrop + table {
 	font-family: "Terminus (TTF) for Windows", "Lucida Console", Consolas, Monaco, monospace !important;
-    font-size: 12px !important;
+  font-size: 12px !important;
+}
+
+/* uBlock select element fix */
+html#ublock0-epicker section > div:first-child > textarea,
+html#ublock0-epicker ul > li > ul > li {
+	font: 12px monospace !important;
 }
